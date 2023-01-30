@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ahmed Tarek ElMashad</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A Web Developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedtarek6074&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedtarek6074" /> </p>
 
