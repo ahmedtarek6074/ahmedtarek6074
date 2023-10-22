@@ -52,19 +52,6 @@
 <a href="https://ko-fi.com/ahmedtarek6074"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ahmedtarek6074" /></a></p>
 <br>  </br>  
 
-<h2 align="left"> 📊 My Statistics:</h2>
-  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedtarek6074&theme=monokai&show_icons=true&locale=en&layout=compact" alt="ahmedtarek6074" /></p>  
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedtarek6074&theme=monokai&show_icons=true&locale=en" alt="ahmedtarek6074" /></p>  
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedtarek6074&theme=monokai" alt="ahmedtarek6074" /></p>  
-
-<br>  </br>
-
-<h2 align="left"> 🏆 My Contribution Graph</h2>
-   
- ![](https://activity-graph.herokuapp.com/graph?username=ahmedtarek6074&theme=monokai)
 --- 
  [![](https://visitcount.itsvg.in/api?id=ahmedtarek6074&icon=9&color=0)](https://visitcount.itsvg.in)
