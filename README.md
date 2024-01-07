@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/ahmedlmashad" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedlmashad?logo=twitter&style=for-the-badge" alt="ahmedlmashad" /></a> </p>
 
-- 🔭 I’m currently working on **My first react project**
+- 🔭 I’m currently working on **My first react native project**
 
 - 🌱 I’m currently learning **Pyhton , Blockchain , Web3**
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **ahmed.elmashad1811@gmail.com**
 
-- ⚡ Fun fact **Iam a civil engineer**
+
 
 
 <br>  </br>
